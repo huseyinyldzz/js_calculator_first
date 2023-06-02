@@ -30,3 +30,4 @@ function clearAll() {
 
 clearButton.addEventListener(`click`, clearAll);
 
+
